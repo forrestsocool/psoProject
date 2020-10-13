@@ -1,0 +1,85 @@
+Metadata-Version: 1.1
+Name: pyswarm
+Version: 0.6
+Summary: Particle swarm optimization (PSO) with constraint support
+Home-page: https://github.com/tisimst/pyswarm
+Author: Abraham Lee
+Author-email: tisimst@gmail.com
+License: BSD License
+Description: =========================================================
+        Particle swarm optimization (PSO) with constraint support
+        =========================================================
+        
+        The ``pyswarm`` package is a gradient-free, evolutionary optimization package 
+        for python that supports constraints.
+        
+        What's New
+        ==========
+        
+        In this release, we've added Python3 compatibility.
+        
+        Requirements
+        ============
+        
+        - NumPy
+        
+        Installation and download
+        =========================
+        
+        See the `package homepage`_ for helpful hints relating to downloading
+        and installing pyswarm.
+        
+        
+        Source Code
+        ===========
+        
+        The latest, bleeding-edge, but working, `code
+        <https://github.com/tisimst/pyDOE/tree/master/pyswarm>`_
+        and `documentation source
+        <https://github.com/tisimst/pyswarm/tree/master/doc/>`_ are
+        available `on GitHub <https://github.com/tisimst/pyswarm/>`_.
+        
+        Contact
+        =======
+        
+        Any feedback, questions, bug reports, or success stores should
+        be sent to the `author`_. I'd love to hear from you!
+        
+        License
+        =======
+        
+        This package is provided under two licenses:
+        
+        1. The *BSD License*
+        2. Any other that the author approves (just ask!)
+        
+        References
+        ==========
+        
+        - `Particle swarm optimization`_ on Wikipedia
+        
+        .. _author: mailto:tisimst@gmail.com
+        .. _Particle swarm optimization: http://en.wikipedia.org/wiki/Particle_swarm_optimization
+        .. _package homepage: http://pythonhosted.org/pyswarm
+        
+Keywords: PSO,particle swarm optimization,optimization,python
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities

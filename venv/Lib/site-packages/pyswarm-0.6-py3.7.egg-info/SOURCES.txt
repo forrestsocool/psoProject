@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+pyswarm/__init__.py
+pyswarm/pso.py
+pyswarm.egg-info/PKG-INFO
+pyswarm.egg-info/SOURCES.txt
+pyswarm.egg-info/dependency_links.txt
+pyswarm.egg-info/requires.txt
+pyswarm.egg-info/top_level.txt
